@@ -1,7 +1,7 @@
 Problem
 -------
 Given N * M string array of O's and X's
-Return the number of 'X' total shapes. 'X' shape consists of one or more adjacent X's (diagonals not included).Given two linked lists sorted in increasing order. Merge them such a way that the result list is in decreasing order (reverse order).
+Return the number of 'X' total shapes. 'X' shape consists of one or more adjacent X's (diagonals not included).
 
 Source: https://practice.geeksforgeeks.org/problems/x-total-shapes/0
 
